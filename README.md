@@ -19,7 +19,7 @@ debian linux system
 
 ### TO RUN THE PROGRAM :
 cd /change-mac
-
+chmod +x change-mac.py
 python3 change-mac.py
 
 
