@@ -19,6 +19,7 @@ debian linux system
 
 ### TO RUN THE PROGRAM :
 cd /change-mac
+
 python3 change-mac.py
 
 
