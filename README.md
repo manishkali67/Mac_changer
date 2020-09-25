@@ -18,6 +18,8 @@ debian linux system
 
 
 ### TO RUN THE PROGRAM :
+pip3 install colorama
+
 cd /change-mac
 
 chmod +x change-mac.py
