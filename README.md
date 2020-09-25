@@ -20,6 +20,8 @@ debian linux system
 ### TO RUN THE PROGRAM :
 pip3 install colorama
 
+git clone https://github.com/mpandey67/change-mac.git
+
 cd /change-mac
 
 chmod +x change-mac.py
